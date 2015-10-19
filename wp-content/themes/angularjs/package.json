@@ -1,0 +1,25 @@
+{
+  "name": "angular-wp",
+  "version": "1.0.0",
+  "description": "A angular wordpress theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomtom87/wp-angular.git"
+  },
+  "keywords": [
+    "wordpress",
+    "angularjs",
+    "theme",
+    "wp"
+  ],
+  "author": "Tom Whitbread",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomtom87/wp-angular/issues"
+  },
+  "homepage": "https://github.com/tomtom87/wp-angular#readme"
+}
